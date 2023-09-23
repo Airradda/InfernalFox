@@ -33,7 +33,7 @@
 
 /* move nav panel in slightly to prevent covering window controls */
 #nav-bar-customization-target {
-  padding-left: 68px;
+  padding-left: 0px;
 }
 
 /* color menu button to mark private browsing windows */
